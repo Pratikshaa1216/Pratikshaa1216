@@ -41,8 +41,7 @@ An end-to-end OCR pipeline for detecting and recognizing historical Greek inscri
 
 * [LinkedIn](https://www.linkedin.com/in/pratikshaa1216)
 * [GitHub](https://github.com/Pratikshaa1216)
-* [LeetCode](https://leetcode.com/u/Pratikshaa1216/)
-* [Email](mailto:patil.pratiksha.work@gmail.com)
+* [LeetCode](https://leetcode.com/u/pratikshamanikpatil121/)
 
 
 ## 🐍 Contribution Snake
