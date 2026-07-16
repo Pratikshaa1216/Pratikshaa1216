@@ -51,7 +51,6 @@ An end-to-end OCR pipeline for detecting and recognizing historical Greek inscri
 ## 🏆 Highlights
 
 - Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
-- Microsoft Certified: **Fabric Data Engineer Associate (DP-700)**
 - Open to full-time opportunities in **Data Science, AI/ML, Data Analytics and Data Engineering**
 
 ---
