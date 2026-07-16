@@ -85,8 +85,7 @@ An end-to-end OCR pipeline for detecting and recognizing text in historical Gree
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pratikshaa1216&show_icons=true&hide_border=true" alt="Pratiksha's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshaa1216&layout=compact&hide_border=true" alt="Most used languages" />
+  <img src="images/userstats.svg" alt="Pratiksha's GitHub statistics" />
 </p>
 
 ## 🐍 Contribution Snake
