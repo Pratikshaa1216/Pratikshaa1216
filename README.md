@@ -1,47 +1,69 @@
-# 👋 Hey, I'm Pratiksha!
+<h1 align="center">👋 Hey, I'm Pratiksha!</h1>
 
-I am an **Artificial Intelligence master's student at FAU Erlangen–Nürnberg** and currently a **Data Analyst Intern at Schaeffler**.
+<p align="center">
+  <b>Data Scientist · AI/ML Engineer · Data Analyst</b><br>
+  M.Sc. Artificial Intelligence at FAU Erlangen–Nürnberg
+</p>
 
-I enjoy building practical solutions using **data analytics, machine learning, data engineering, business intelligence, and Generative AI**.
+<p align="center">
+  I build practical solutions across <b>Machine Learning, Generative AI, Data Engineering, Analytics and Business Intelligence</b>.
+</p>
 
-## 💼 My Journey
+---
 
-| Role | Organization | Focus |
-|---|---|---|
-| Data Analyst Intern | Schaeffler | HR analytics, Azure, PySpark, SQL and Power BI |
-| Working Student – Data & AI | Siemens Healthineers | Data pipelines, automation, BI and RAG evaluation |
-| Data Science Intern | Infineon Technologies | Machine learning, cloud and predictive analytics |
-| Research Assistant | FAU | Machine learning and computer vision research |
+## 💼 Experience
 
-## 🛠️ Skills
+| Organization | Focus Areas |
+|---|---|
+| **Schaeffler** | HR Analytics, Azure, PySpark, SQL, Power BI, Generative AI |
+| **Siemens Healthineers** | Data Pipelines, Automation, Business Intelligence, RAG Evaluation |
+| **Infineon Technologies** | Machine Learning, Cloud Analytics, Predictive Modelling |
+| **FAU Erlangen–Nürnberg** | Computer Vision, Deep Learning, AI Research |
 
-**Programming:** Python, SQL, PySpark  
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, OpenCV  
-**Data & BI:** Power BI, Pandas, NumPy, Microsoft Fabric  
-**Cloud & Engineering:** Azure, AWS, Snowflake, Docker, Git  
-**AI:** LLMs, RAG, NLP, Computer Vision
+---
+
+## 🛠️ Tech Stack
+
+**Programming & Data:** Python, SQL, C++, R, JavaScript, PySpark, Pandas, NumPy  
+
+**Machine Learning & AI:** Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, RAG, Prompt Engineering, Agentic Workflows  
+
+**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, OpenCV, LangChain, ChromaDB, FastAPI  
+
+**Analytics & Visualization:** Power BI, Tableau, Excel, Grafana, Plotly  
+
+**Cloud, Databases & Engineering:** Microsoft Azure, AWS, Snowflake, MySQL, PostgreSQL, Docker, Linux, Git, CI/CD, MLflow  
+
+**Automation & Collaboration:** Power Apps, Power Automate, SharePoint, JIRA, Confluence  
+
+---
 
 ## 🚀 Featured Project
 
 ### [TROGS Greek Text Recognition](https://github.com/Pratikshaa1216/trogs_greek_text_recognition)
 
-End-to-end OCR system for detecting and recognizing historical Greek inscriptions using **YOLO, PyTorch, CTC, CNN and BiLSTM models**.
+An end-to-end OCR pipeline for detecting and recognizing historical Greek inscriptions using **YOLO, PyTorch, CTC, CNN and BiLSTM models**.
 
-- 🥉 3rd place in the TROGS-26 competition
-- 📄 Co-author of an accepted ICDAR/IWCP 2026 research paper
+- 🥉 **3rd Place** — TROGS-26 Greek Inscription Recognition Competition
+- 📄 Co-author of an accepted **ICDAR/IWCP 2026** research paper
+
+---
 
 ## 🏆 Highlights
 
 - Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
 - Microsoft Certified: **Fabric Data Engineer Associate (DP-700)**
-- Experience across **Schaeffler, Siemens Healthineers, Infineon and FAU**
-- Open to full-time opportunities in **Data Science, Data Analytics, Data Engineering and Applied AI**
+- Open to full-time opportunities in **Data Science, AI/ML, Data Analytics and Data Engineering**
+
+---
 
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/pratikshaa1216)
 - [Email](mailto:patil.pratiksha.work@gmail.com)
 - Erlangen, Germany
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -53,4 +75,6 @@ End-to-end OCR system for detecting and recognizing historical Greek inscription
   </picture>
 </p>
 
-> I enjoy turning complex data into useful insights and practical AI solutions.
+<p align="center">
+  <i>Turning complex data into useful insights and practical AI solutions.</i>
+</p>
