@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratiksha Patil</h1>
+<h1 align="center">Hi 👋, I'm Pratiksha Manik Patil</h1>
 <h3 align="center">Data Scientist & Data Analyst | Machine Learning • Data Engineering • Business Intelligence</h3>
 
 <p align="center">
