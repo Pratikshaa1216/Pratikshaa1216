@@ -89,6 +89,16 @@ An end-to-end OCR pipeline for detecting and recognizing text in historical Gree
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshaa1216&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratikshaa1216/Pratikshaa1216/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratikshaa1216/Pratikshaa1216/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Pratikshaa1216/Pratikshaa1216/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/pratikshaa1216](https://www.linkedin.com/in/pratikshaa1216)
@@ -98,4 +108,3 @@ An end-to-end OCR pipeline for detecting and recognizing text in historical Gree
 ---
 
 <p align="center"><i>I enjoy turning complex data into reliable systems, useful insights, and practical AI solutions.</i></p>
-
