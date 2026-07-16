@@ -13,15 +13,14 @@
 
 ## 💼 Experience
 
-| Organization | Focus Areas |
-|---|---|
-| **Schaeffler** | HR Analytics, Azure, PySpark, SQL, Power BI, Generative AI |
-| **Siemens Healthineers** | Data Pipelines, Automation, Business Intelligence, RAG Evaluation |
-| **Infineon Technologies** | Machine Learning, Cloud Analytics, Predictive Modelling |
-| **FAU Erlangen–Nürnberg** | Computer Vision, Deep Learning, AI Research |
+| Organization | Role | Focus Areas |
+|---|---|---|
+| **Schaeffler** | Data Analyst | HR Analytics, Azure, PySpark, SQL, Power BI, Generative AI |
+| **Siemens Healthineers** | Data Scientist & AI Analyst | Data Pipelines, Automation, Business Intelligence, RAG Evaluation |
+| **Infineon Technologies** | Data Scientist | Machine Learning, Cloud Analytics, Predictive Modelling |
+| **FAU Erlangen–Nürnberg** | AI Researcher | Computer Vision, Deep Learning, Machine Learning Research |
 
 ---
-
 ## 🛠️ Tech Stack
 
 **Programming & Data:** Python, SQL, C++, R, JavaScript, PySpark, Pandas, NumPy  
@@ -44,7 +43,7 @@
 
 An end-to-end OCR pipeline for detecting and recognizing historical Greek inscriptions using **YOLO, PyTorch, CTC, CNN and BiLSTM models**.
 
-- 🥉 **3rd Place** — TROGS-26 Greek Inscription Recognition Competition
+- 🥉 Participated in TROGS-26 Greek Inscription Recognition Competition
 - 📄 Co-author of an accepted **ICDAR/IWCP 2026** research paper
 
 ---
