@@ -15,7 +15,6 @@
 
 | Organization | Role | Focus Areas |
 |---|---|---|
-| **Schaeffler** | Data Analyst | HR Analytics, Azure, PySpark, SQL, Power BI, Generative AI |
 | **Siemens Healthineers** | Data Scientist & AI Analyst | Data Pipelines, Automation, Business Intelligence, RAG Evaluation |
 | **Infineon Technologies** | Data Scientist | Machine Learning, Cloud Analytics, Predictive Modelling |
 | **FAU Erlangen–Nürnberg** | AI Researcher | Computer Vision, Deep Learning, Machine Learning Research |
