@@ -14,8 +14,6 @@
 
 🧠 I am interested in **Machine Learning, Generative AI, Computer Vision, Data Engineering and Business Intelligence**.
 
-🏆 Microsoft Certified **Fabric Analytics Engineer Associate – DP-600**.
-
 📄 Co-author of an accepted **ICDAR/IWCP 2026 research paper**.
 
 💬 Ask me about **Python, SQL, Power BI, Machine Learning, RAG and Data Pipelines**.
