@@ -18,7 +18,7 @@
 
 💬 Ask me about **Python, SQL, Power BI, Machine Learning, RAG and Data Pipelines**.
 
-📫 Reach me at **[patil.pratiksha.work@gmail.com](mailto:patil.pratiksha.work@gmail.com)**.
+📫 Reach me at **[pratikshaa1601@gmail.com](mailto:pratikshaa1601@gmail.com)**.
 
 ## 🛠️ Technologies
 
