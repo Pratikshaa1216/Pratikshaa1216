@@ -41,18 +41,3 @@ An end-to-end OCR pipeline for detecting and recognizing historical Greek inscri
 * [GitHub](https://github.com/Pratikshaa1216)
 * [LeetCode](https://leetcode.com/u/pratikshamanikpatil121/)
 * [Email](mailto:patikshaa1601@gmail.com)
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratikshaa1216/Pratikshaa1216/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratikshaa1216/Pratikshaa1216/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Pratikshaa1216/Pratikshaa1216/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <i>Turning complex data into practical AI and analytics solutions.</i>
-</p>
